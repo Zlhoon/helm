@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginxstd:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-07-21T11:48:47.7956773+09:00"
+    description: A Helm chart for olivenetwork
+    digest: bf7a36f23955061e10c3fffedeaa661218f371c28573106ec2e4e4d0c2392822
+    name: nginxstd
+    type: application
+    urls:
+    - nginxstd-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-07-21T11:48:47.7951405+09:00"
